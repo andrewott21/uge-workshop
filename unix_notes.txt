@@ -1,0 +1,123 @@
+history | less
+history 5
+history
+ls .
+ls.
+pwd
+cd ~
+cd ../..
+cd
+cd ..
+cd /users/andrewo/Downloads/
+cd /users/andrewo/down
+ls -l
+ls
+cd Downloads/
+mkdir my\ dir
+mkdir my dir
+cd /users/andrewo/
+cd /users/andrewo
+cd 
+man -w
+man
+man ls
+cd /users/andrewo/documents
+cd users/andrewo/
+cd /
+cd users/andrewo/Desktop/
+ls -rl
+ls -t
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'Andrewott21@me.com'
+git config --global user.name 'Andrew Otterson'
+git --version
+echo $PATH
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+brew update
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+sudo purge
+cd l
+cd return
+cd documents
+cd users/andrewo
+cd users/andrewot
+cd andrewo
+cd desktop
+help
+cd /users/desktop/
+cd /users/desktop
+cd macintosh HD/users/desktop
+cd /desktop/
+cd /desktop
+cd andrewo/desktop
+cd ,,
+cd album artwork
+cd album artword
+cd itunes media sentinel
+cd itunes media
+cd itunes music
+cd itunes
+cd music
+cd documnets
+ls documents
+mv bambi.txt hi.txt
+..
+mv bambi.txt ..
+bambi.txt ..
+cd public
+mv hi.txt public/bambi.txt
+mv hi.txt public/yo.txt
+mv hi.txt ..
+mv hi.txt andrewo/hi.txt
+cd desktop/
+mv hello.txt desktop/hi.txt
+;s
+mv hi.txt hello.txt
+mv hi.txt Documents/hello.txt
+mv hi.txt documents/hello.txt
+mv hi.txt /documents/
+clear
+desktop/
+cd desktop./
+mv hi.txt /desktop
+cd .
+cd /andrewo
+cd andrewo/
+ls -a
+ls ~a
+ls documents/
+mv hi.txt desktop/
+mv hi.txt users/Andrewo/desktop
+mv desktop hi.txt
+mv hi.txt desktop
+ls desktop
+mv hi.txt documents/
+less hi.txt
+mv hello.txt hi.txt
+less hello.txt
+nano hello.txt
+less hello.pages
+less pages.pages
+reload
+less hello
+cd /Documents
+cd /documents
+less documents
+~
+cd ~/documents
+ cd../..
+ls /etc -l
+ls -l /etc
+ls /etc
+desktop

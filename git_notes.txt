@@ -1,0 +1,3 @@
+-need to commit and give a comment when adding a file
+-going through git it seems to be really confusing on how to navigate around and when adding text files or files you need to make sure you commit them and make sure the symol next to master is a checkmark once done adding your file to git or else its considered messy.
+I also had trouble running through this thing every time I would upload something it would give me a DS_Store some weird document that would be made everytime after I add a file to my git which made my terminal read it was messy or that something wasnt correct along the lines but now that I was able to change the name of the document add it to my git and commit it with a comment it has popped up yet so it must be fixed.

@@ -1,17 +1,3 @@
-history | less
-history 5
-history
-ls .
-ls.
-pwd
-cd ~
-cd ../..
-cd
-cd ..
-cd /users/andrewo/Downloads/
-cd /users/andrewo/down
-ls -l
-ls
 cd Downloads/
 mkdir my\ dir
 mkdir my dir
